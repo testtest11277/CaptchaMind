@@ -1,0 +1,26 @@
+subject_id,captcha_type,app_name,app_version,reported_size
+1,Text-selection,Bilibili,8.71.0,6.33B
+2,Text-selection,Keep,9.0.1,0.99B
+3,Text-selection,Juneyao Airlines,7.16.4,3.43M
+4,Text-selection,Douyu Live,8.1.6.0,0.69B
+5,Text-selection,Ctrip,8.86.2,4.11B
+6,Slider,NetEase Music,9.5.20,3.89B
+7,Slider,Douyin,38.5.0,34.89B
+8,Slider,Meituan,12.54.205,12.74B
+9,Slider,Weibo,15.10.3,15.94B
+10,Slider,QQ Music,20.4.5,5.53B
+11,Image-selection,WeChat,8.0.72,17.33B
+12,Image-selection,QQ,9.2.90,17.92B
+13,Image-selection,Taobao,10.60.0,22.09B
+14,Image-selection,Damai,9.0.21,0.19B
+15,Image-selection,iQIYI,17.5.5,11.89B
+16,Image-rotation,Baidu Search,15.61.0.11,20.75B
+17,Image-rotation,Baidu Tieba,22.7.1.0,0.65B
+18,Image-rotation,Baidu Netdisk,13.25.0,2.74B
+19,Image-rotation,Baidu Map,22.0.0,1.29B
+20,Image-rotation,Aiqicha,3.9.0,50M
+21,reCAPTCHA,YouTube,21.23.482,10B
+22,reCAPTCHA,Google,17.28.30,10B
+23,reCAPTCHA,Bandlab,11.25.0,0.1B
+24,reCAPTCHA,Pixiv,6.183.0,10M
+25,reCAPTCHA,Steam,3.10.9,0.1B
